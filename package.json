@@ -1,5 +1,5 @@
 {
-  "name": "Leaflet.Terminator",
+  "name": "leaflet.terminator",
   "version": "1.0.0",
   "description": "Overlay day and night regions on a Leaflet Earth map.",
   "main": "L.Terminator.js",
