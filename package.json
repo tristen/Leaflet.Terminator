@@ -1,0 +1,27 @@
+{
+  "name": "Leaflet.Terminator",
+  "version": "1.0.0",
+  "description": "Overlay day and night regions on a Leaflet Earth map.",
+  "main": "L.Terminator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tristen/Leaflet.Terminator.git"
+  },
+  "keywords": [
+    "leaflet",
+    "polygon",
+    "time",
+    "map",
+    "day",
+    "night"
+  ],
+  "author": "joergdietrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tristen/Leaflet.Terminator/issues"
+  },
+  "homepage": "https://github.com/tristen/Leaflet.Terminator"
+}
